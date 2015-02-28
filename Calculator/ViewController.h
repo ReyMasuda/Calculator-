@@ -8,7 +8,13 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController{
+    int number;
+    
+    IBOutlet UILabel *label1;
+}
+
+-(IBAction)plus;
 
 
 @end

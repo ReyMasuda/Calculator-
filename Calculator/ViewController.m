@@ -24,6 +24,9 @@
     // Dispose of any resources that can be recreated.
 }
 
-
+-(IBAction)plus{
+    number=number+1;
+    
+}
 
 @end

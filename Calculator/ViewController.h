@@ -31,6 +31,9 @@
 -(IBAction)plus;
 -(IBAction)equal;
 -(IBAction)clear;
+-(IBAction)minus;
+-(IBAction)kakeru;
+-(IBAction)waru;
 
 
 @end

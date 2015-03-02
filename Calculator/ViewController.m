@@ -33,33 +33,6 @@
         number2=number2*10+1;
         label2.text = [NSString stringWithFormat:@"%d",number2];
     }
-    
-    if (ope==0) {
-        number1=number1*10-1;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10-1;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10/1;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10/1;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10*1;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10*1;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
 }
 
 -(IBAction)bt2{
@@ -69,33 +42,6 @@
     }
     else {
         number2=number2*10+2;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10-2;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10-2;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10*2;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10*2;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10/2;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10/2;
         label2.text = [NSString stringWithFormat:@"%d",number2];
     }
 }
@@ -109,33 +55,6 @@
         number2=number2*10+3;
         label2.text = [NSString stringWithFormat:@"%d",number2];
     }
-    
-    if (ope==0) {
-        number1=number1*10-3;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10-3;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10*3;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10*3;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10/3;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10/3;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
 }
 
 -(IBAction)bt4{
@@ -145,33 +64,6 @@
     }
     else {
         number2=number2*10+4;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10-4;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10-4;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10*4;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10*4;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10/4;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10/4;
         label2.text = [NSString stringWithFormat:@"%d",number2];
     }
 }
@@ -185,33 +77,6 @@
         number2=number2*10+5;
         label2.text = [NSString stringWithFormat:@"%d",number2];
     }
-    
-    if (ope==0) {
-        number1=number1*10-5;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10-5;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10*5;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10*5;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10/5;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10/5;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
 }
 
 -(IBAction)bt6{
@@ -221,33 +86,6 @@
     }
     else {
         number2=number2*10+6;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10-6;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10-6;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10/6;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10/6;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10*6;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10*6;
         label2.text = [NSString stringWithFormat:@"%d",number2];
     }
 }
@@ -261,33 +99,6 @@
         number2=number2*10+7;
         label2.text = [NSString stringWithFormat:@"%d",number2];
     }
-    
-    if (ope==0) {
-        number1=number1*10-7;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10-7;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10*7;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10*7;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10/7;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10/7;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
 }
 
 -(IBAction)bt8{
@@ -297,33 +108,6 @@
     }
     else {
         number2=number2*10+8;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10-8;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10-8;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10/8;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10/8;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10*8;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10*8;
         label2.text = [NSString stringWithFormat:@"%d",number2];
     }
 }
@@ -337,41 +121,35 @@
         number2=number2*10+9;
         label2.text = [NSString stringWithFormat:@"%d",number2];
     }
-    
-    if (ope==0) {
-        number1=number1*10-9;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10-9;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10/9;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10/9;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
-    
-    if (ope==0) {
-        number1=number1*10*9;
-        label1.text = [NSString stringWithFormat:@"%d",number1];
-    }
-    else {
-        number2=number2*10*9;
-        label2.text = [NSString stringWithFormat:@"%d",number2];
-    }
 }
 
 -(IBAction)plus{
     ope=1;
 }
 
+-(IBAction)minus{
+    ope=1;
+}
+
+-(IBAction)kakeru{
+    ope=1;
+}
+
+-(IBAction)waru{
+    ope=1;
+}
+
 -(IBAction)equal{
     number3=number1+number2;
+    label3.text = [NSString stringWithFormat:@"%d",number3];
+    
+    number3=number1-number2;
+    label3.text = [NSString stringWithFormat:@"%d",number3];
+    
+    number3=number1*number2;
+    label3.text = [NSString stringWithFormat:@"%d",number3];
+    
+    number3=number1/number2;
     label3.text = [NSString stringWithFormat:@"%d",number3];
 }
 

@@ -128,15 +128,15 @@
 }
 
 -(IBAction)minus{
-    ope=1;
+    ope=2;
 }
 
 -(IBAction)kakeru{
-    ope=1;
+    ope=3;
 }
 
 -(IBAction)waru{
-    ope=1;
+    ope=4;
 }
 
 -(IBAction)equal{

@@ -125,31 +125,26 @@
 
 -(IBAction)plus{
     ope=1;
+    number3=number1+number2;
 }
 
 -(IBAction)minus{
-    ope=2;
+    ope=1;
+    number3=number1-number2;
 }
 
 -(IBAction)kakeru{
-    ope=3;
+    ope=1;
+    number3=number1*number2;
 }
 
 -(IBAction)waru{
-    ope=4;
+    ope=1;
+    number3=number1/number2;
 }
 
 -(IBAction)equal{
     number3=number1+number2;
-    label3.text = [NSString stringWithFormat:@"%d",number3];
-    
-    number3=number1-number2;
-    label3.text = [NSString stringWithFormat:@"%d",number3];
-    
-    number3=number1*number2;
-    label3.text = [NSString stringWithFormat:@"%d",number3];
-    
-    number3=number1/number2;
     label3.text = [NSString stringWithFormat:@"%d",number3];
 }
 
